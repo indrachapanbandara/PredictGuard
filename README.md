@@ -116,11 +116,51 @@ Generates concise, well-structured summaries for management review and quick ins
 
 ---
 
-## 👩‍💻 Installation & Usage
+### 🚀 Development Process
 
-> Ensure you have **Python 3.10+** and a virtual environment activated.
+1. 🍴 **Fork the Repository**
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/PredictGuard.git
-cd PredictGuard
+    ```bash
+    git clone https://github.com/indrachapanbandara/PredictGuard.git
+    cd PredictGuard
+    ```
+
+2. 🌿 **Install Dependencies & Usage**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. 💻 **Run the Application**
+    - python app/run.py
+4. ✅ **Access the Dashboard**
+
+    http://127.0.0.1:5000/
+
+5. 📝 **Generate Forecasts**
+
+   Upload your POS data (Excel or CSV format)
+
+   Select the product ID and date range
+
+   View forecast trends in the dashboard
+
+   Click “Download Forecast Report” to export a PDF summary
+
+
+---
+
+### 📋 Development Guidelines
+
+- **Code Style:** Follow existing patterns and ESLint rules
+- **Commits:** Use [conventional commit messages](https://www.conventionalcommits.org/)
+- **Documentation:** Update README and inline docs
+- **Testing:** Verify functionality before submitting
+
+---
+
+## 🏆 Developers
+
+| [<img src="https://github.com/POORNA-github.png" width="50"/>](https://github.com/POORNA-github) | [<img src="https://github.com/Disira.png" width="50"/>](https://github.com/Disira) |
+|:---:|:---:|
+| [Chapa](https://github.com/indrachapanbandara)) | 

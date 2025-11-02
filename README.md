@@ -53,6 +53,23 @@ Generates concise, well-structured summaries for management review and quick ins
 
 ---
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="assets/reports.png" alt="Reports" width="700"/>
+  <br>
+  <em>Reports</em>
+</p>
+
+<p align="center">
+  <img src="assets/reports2.png" alt="Reports" width="700"/>
+  <br>
+  <em>Reports</em>
+</p>
+
+
+---
+
 ## 💻 Technical Stack
 
 | **Component** | **Technology / Library** | **Purpose** |

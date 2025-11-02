@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/indrachapanbandara/PredictGuard/assets/banner.png" alt="PredictGuard Banner" width="90%">
+  <img src="assets/banner.png" alt="PredictGuard Banner" width="90%">
 </p>
 
 <h1 align="center">🧠 PredictGuard</h1>

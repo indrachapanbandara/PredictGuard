@@ -161,6 +161,6 @@ Generates concise, well-structured summaries for management review and quick ins
 
 ## 🏆 Developers
 
-| [<img src="https://github.com/POORNA-github.png" width="50"/>](https://github.com/POORNA-github) | [<img src="https://github.com/Disira.png" width="50"/>](https://github.com/Disira) |
+| [<img src="https://github.com/indrachapanbandara.png" width="50"/>](https://github.com/indrachapanbandara)
 |:---:|:---:|
 | [Chapa](https://github.com/indrachapanbandara)) | 
